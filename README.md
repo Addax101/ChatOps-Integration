@@ -10,7 +10,7 @@ This project aims to integrate chat platforms like Slack, Microsoft Teams, or Ji
 ## Installation
 To install the ChatOps integration, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/chatops-integration.git
+- Clone the repository: git clone https://github.com/Addax101/chatops-integration.git
 - Install the required dependencies: npm install
 - Configure the integration by setting up the necessary environment variables.
 - Run the application: npm start
