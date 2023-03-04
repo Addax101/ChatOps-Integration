@@ -29,3 +29,10 @@ DEVOPS_API_KEY: The API key or access token for your DevOps tool.
 
 Once the integration is set up and running, it will automatically send real-time notifications to the specified channel in your chat platform whenever there are changes or updates made in your DevOps tool. Users can also use the chat platform to communicate and collaborate with their team members, without the need to constantly switch between different tools.
 
+## Contributing
+
+Contributions to this project are always welcome! If you find a bug, or have an idea for a new feature, feel free to submit an issue or pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
