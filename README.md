@@ -25,3 +25,7 @@ DEVOPS_API_KEY: The API key or access token for your DevOps tool.
 * `NOTIFICATION_CHANNEL`: The name or ID of the channel where notifications should be sent.
 
 
+## Usage
+
+Once the integration is set up and running, it will automatically send real-time notifications to the specified channel in your chat platform whenever there are changes or updates made in your DevOps tool. Users can also use the chat platform to communicate and collaborate with their team members, without the need to constantly switch between different tools.
+
