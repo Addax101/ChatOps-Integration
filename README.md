@@ -15,4 +15,13 @@ To install the ChatOps integration, follow these steps:
 - Configure the integration by setting up the necessary environment variables.
 - Run the application: `npm start`
 
+## Configuration
+The following environment variables are required to configure the ChatOps integration:
+
+* `CHAT_PLATFORM`: The name of the chat platform you are using (e.g., Slack, MicrosoftTeams, Jira).
+* `CHAT_API_KEY`: The API key or access token for your chat platform.
+* `DEVOPS_PLATFORM`: The name of the DevOps tool you are using (e.g., Jenkins, GitHub, Docker).
+DEVOPS_API_KEY: The API key or access token for your DevOps tool.
+* `NOTIFICATION_CHANNEL`: The name or ID of the channel where notifications should be sent.
+
 
