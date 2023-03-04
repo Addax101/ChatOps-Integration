@@ -6,3 +6,11 @@ This project aims to integrate chat platforms like Slack, Microsoft Teams, or Ji
 - Integrates with popular DevOps tools like Jenkins, GitHub, and Docker.
 - Sends real-time notifications to the appropriate channels, alerting the team to any changes or updates made in the DevOps tools.
 - Enables team members to collaborate and communicate within the chat platform, eliminating the need for constant switching between tools
+
+## Installation
+To install the ChatOps integration, follow these steps:
+
+- Clone the repository: git clone https://github.com/your-username/chatops-integration.git
+- Install the required dependencies: npm install
+- Configure the integration by setting up the necessary environment variables.
+- Run the application: npm start
