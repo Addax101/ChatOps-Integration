@@ -1,5 +1,5 @@
 # ChatOps Integration
-This project aims to integrate chat platforms like Slack, Microsoft Teams, or Jira with DevOps tools to facilitate communication and collaboration between development and operations teams. By integrating these tools, teams can streamline their workflows, increase productivity, and reduce the chances of errors and miscommunications.
+This project aims to integrate chat platforms like *Slack, Microsoft Teams, or Jira* with DevOps tools to facilitate communication and collaboration between development and operations teams. By integrating these tools, teams can streamline their workflows, increase productivity, and reduce the chances of errors and miscommunications.
 
 ## Features
 - Supports integration with multiple chat platforms such as Slack, Microsoft Teams, and Jira.
