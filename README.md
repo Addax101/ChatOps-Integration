@@ -35,4 +35,4 @@ Contributions to this project are always welcome! If you find a bug, or have an 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the `MIT License` - see the LICENSE file for details.
